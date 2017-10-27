@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 collections:
   jbo:
     output: true
-    permalink: :title-jbo.html
+    permalink: :title.html
 defaults:
   - scope:
       path: ""
