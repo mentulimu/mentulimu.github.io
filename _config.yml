@@ -1,1 +1,11 @@
 theme: jekyll-theme-slate
+collections:
+  jbo:
+    output: true
+    permalink: :title-jbo.html
+defaults:
+  - scope:
+      path: ""
+      type: jbo
+    values:
+      layout: jbo
