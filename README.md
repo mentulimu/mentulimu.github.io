@@ -1,4 +1,5 @@
 ---
+layout: default
 title: mentu li mu
 date: 2017-10-27T12:34:00Z
 ---
