@@ -1,3 +1,7 @@
+---
+title: mentu li mu
+date: 2017-10-27T12:34:00Z
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mentulimu/mentulimu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
