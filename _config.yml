@@ -1,11 +1,11 @@
 theme: jekyll-theme-slate
 collections:
-  jbo:
+  notes:
     output: true
     permalink: :title.html
 defaults:
   - scope:
       path: ""
-      type: jbo
+      type: notes
     values:
-      layout: jbo
+      layout: post
