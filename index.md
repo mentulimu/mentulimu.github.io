@@ -1,43 +1,17 @@
 ---
 layout: default
-title: mentu li mu
+title: mEntulimu
 author: guskant
 date: 2017-10-27T12:44:00Z
 ---
-## Welcome to GitHub Pages
+## <span lang="en">What is "mEntulimu"?</span> <span lang="jbo">la'au mEntulimu li'u mo</span> <span lang="epo">Kio estas "mEntulimu"?</span> <span lang="fr">Qu'est « mEntulimu » ?</span> <span lang="zh-Hant">"mEntulimu"是什麼?</span> <span lang="zh-Hans">"mEntulimu"是什么?</span> <span lang="ja">「mEntulimu」とは？</span>
 
-You can use the [editor on GitHub](https://github.com/mentulimu/mentulimu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<div lang="en">"mEntulimu" is a series of short videos about Lojban.</div>
+<div lang="jbo">la'au mEntulimu li'u porsi lo temto'u co skina be la lojban</div>
+<div lang="epo">"mEntulimu" estas serio de mallongaj filmoj pri la loĵbana.</div>
+<div lang="fr">« mEntulimu » est une serie de courts métrages sur lojban.</div>
+<div lang="zh-Hant">"mEntulimu"是關於Lojban的短片系列。</div>
+<div lang="zh-Hans">"mEntulimu"是关于Lojban的短片系列。</div>
+<div lang="ja">「mEntulimu」はロジバンについての短編動画シリーズです。</div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mentulimu/mentulimu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

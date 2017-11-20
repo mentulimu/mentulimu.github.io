@@ -23,3 +23,12 @@ input[type="text"] {
 }
 li a {line-height:1.8;}@media(min-width:60em){li a{line-height:1.2;}}
 
+[lang="jbo"], 
+[lang="epo"], 
+[lang="fr"], 
+[lang="zh-Hant"], 
+[lang="zh-Hans"], 
+[lang="ja"] {
+  display: none;
+} 
+

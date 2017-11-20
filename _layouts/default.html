@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "jbo" }}">
 
   <head>
     <meta charset='utf-8'>
@@ -8,6 +8,9 @@
     <meta name="description" content="{{ site.title | default: site.github.repository_name }} : {{ site.description | default: site.github.project_tagline }}">
 
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/css/memimoi.css | relative_url }}">
+
+<script type="text/javascript" src="{{ '/js/bangu.js | relative_url }}"></script>
 
 {% seo %}
   </head>
@@ -33,6 +36,15 @@
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
+	<select id="lang-switch">
+	  <option value="en">English</option>
+	  <option value="jbo">Lojban</option>
+	  <option value="epo">Esperanto</option>
+	  <option value="fr">Français</option>
+	  <option value="zh-Hant">中文傳統字</option>
+	  <option value="zh-Hans">中文简化字</option>
+	  <option value="ja">日本語</option>
+	</select>
       <section id="main_content" class="inner">
         {{ content }}
       </section>
