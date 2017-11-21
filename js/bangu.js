@@ -1,9 +1,9 @@
-$('[lang="en"]').show();
-
 if (localStorage.lang !== "undefined") {
     $('[lang]').hide();
     $('[lang=' + localStorage.lang + ']').show();
 } else {
+    $('[lang]').hide();
+    $('[lang="en"]').show();
     localStorage.lang = "en";
 }
 
