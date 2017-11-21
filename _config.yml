@@ -4,9 +4,16 @@ collections:
   jbo:
     output: true
     permalink: /:title-jbo.html
+  liste:
+    output: true
+    permalink: /:title.html
+    values:
+      layout: liste
 defaults:
   - scope:
       path: ""
-      type: jbo
+      type: liste
     values:
-      layout: jbo
+      author: guskant
+      author_url: http://photon.freeshell.org/
+

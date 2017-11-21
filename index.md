@@ -14,3 +14,10 @@ date: 2017-10-27T12:44:00Z
 <div lang="zh-Hans">"mEntulimu"是关于Lojban的短片系列。</div>
 <div lang="ja">「mEntulimu」はロジバンについての短編動画シリーズです。</div>
 
+## <span lang="en">List of videos</span> <span lang="jbo">liste loi skina</span> <span lang="epo">Listo de filmoj</span> <span lang="fr">Liste de films</span> <span lang="zh-Hant">視頻目錄</span> <span lang="zh-Hans">视频目录</span> <span lang="ja">動画のリスト</span>
+
+- CLLの解説
+- 初心者講座
+- 中級者講座
+- 言語設計に対する提案
+- ロジバンを使った作品
