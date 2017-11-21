@@ -1,12 +1,13 @@
 if (localStorage.lang !== "undefined") {
-    null;
+    $('[lang]').hide();
+    $('[lang=' + localStorage.lang + ']').show();
 } else {
+    $('[lang]').hide();
+    $('[lang="en"]').show();
     localStorage.lang = "en";
 }
 
 $("#lang-switch").val(localStorage.lang);
-$('[lang]').hide();
-$('[lang=' + localStorage.lang + ']').show();
 
 $('#lang-switch').change(function () {
     var lang = $(this).val();
