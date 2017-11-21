@@ -1,4 +1,3 @@
-$('[lang]').hide();
 $('[lang="en"]').show();
 
 if (localStorage.lang !== "undefined") {
