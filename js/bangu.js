@@ -54,7 +54,7 @@ $('#lang-switch').change(function () {
         break;
       default:
         $('[lang]').hide();
-        $('[lang=' + localStorage.lang + ']').show();
+        $('[lang="en"]').show();
     }
 });
 
