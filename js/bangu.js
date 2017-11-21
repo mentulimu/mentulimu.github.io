@@ -1,9 +1,5 @@
-$('[lang="jbo"]').hide();
-$('[lang="epo"]').hide();
-$('[lang="fr"]').hide();
-$('[lang="zh-Hant"]').hide();
-$('[lang="zh-Hans"]').hide();
-$('[lang="ja"]').hide();
+$('[lang]').hide();
+$('[lang="en"]').show();
 
 if (localStorage.lang !== "undefined") {
     $('[lang]').hide();
@@ -54,7 +50,7 @@ $('#lang-switch').change(function () {
         break;
       default:
         $('[lang]').hide();
-        $('[lang="en"]').show();
+        $('[lang=' + localStorage.lang + ']').show();
     }
 });
 
