@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
 title: mEntulimu
+author: guskant
+author_url: http://photon.freeshell.org/
 collections:
   jbo:
     output: true
@@ -7,13 +9,9 @@ collections:
   liste:
     output: true
     permalink: /:title.html
-    values:
-      layout: liste
 defaults:
   - scope:
       path: ""
       type: liste
     values:
-      author: guskant
-      author_url: http://photon.freeshell.org/
-
+      layout: post
