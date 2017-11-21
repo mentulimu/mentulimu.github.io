@@ -2,8 +2,12 @@ if (localStorage.lang !== "undefined") {
     $('[lang]').hide();
     $('[lang=' + localStorage.lang + ']').show();
 } else {
-    $('[lang]').hide();
-    $('[lang="en"]').show();
+    $('[lang="jbo"]').hide();
+    $('[lang="epo"]').hide();
+    $('[lang="fr"]').hide();
+    $('[lang="zh-Hant"]').hide();
+    $('[lang="zh-Hans"]').hide();
+    $('[lang="ja"]').hide();
     localStorage.lang = "en";
 }
 
