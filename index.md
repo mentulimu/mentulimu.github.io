@@ -65,7 +65,7 @@ Les films ne sont pas encore prêts.
 </div>
 
 <div lang="zh-Hant">
-電影還沒準備好.
+視頻還沒準備好.
 <ul>
 <li /><a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">CLL (The Complete Lojban Language)</a> 解說
 <li />初級講座
@@ -77,7 +77,7 @@ Les films ne sont pas encore prêts.
 </div>
 
 <div lang="zh-Hans">
-电影还没准备好.
+视频还没准备好.
 <ul>
 <li /><a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">CLL (The Complete Lojban Language)</a> 解说
 <li />初级讲座
