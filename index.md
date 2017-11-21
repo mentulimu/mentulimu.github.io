@@ -14,7 +14,7 @@ date: 2017-10-27T12:44:00Z
 <div lang="zh-Hans">"mEntulimu"是关于逻辑语的短片系列。</div>
 <div lang="ja">「mEntulimu」はロジバンについての短編動画シリーズです。</div>
 
-## <span lang="en">List of videos</span> <span lang="jbo">liste loi skina</span> <span lang="epo">Listo de filmoj</span> <span lang="fr">Liste de films</span> <span lang="zh-Hant">視頻目錄</span> <span lang="zh-Hans">视频目录</span> <span lang="ja">動画のリスト</span>
+## <span lang="en">List of videos</span> <span lang="jbo">liste loi skina</span> <span lang="epo">Listo de filmoj</span> <span lang="fr">Liste de vidéos</span> <span lang="zh-Hant">視頻目錄</span> <span lang="zh-Hans">视频目录</span> <span lang="ja">動画のリスト</span>
 
 <div lang="en">
 Videos are not ready yet.
@@ -53,7 +53,7 @@ Filmoj ankoraŭ ne estas pretaj.
 </div>
 
 <div lang="fr">
-Les films ne sont pas encore prêts.
+Les vidéos ne sont pas encore prêtes.
 <ul>
 <li />Commentaires du livre CLL (<a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">The Complete Lojban Language</a>, <a href="https://github.com/faslobgri/cll-fr">Le Précis de grammaire lojban</a>)
 <li />Cours élémentaire
