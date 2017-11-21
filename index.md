@@ -10,14 +10,72 @@ date: 2017-10-27T12:44:00Z
 <div lang="jbo">la'au mEntulimu li'u porsi lo temto'u co skina be la lojban</div>
 <div lang="epo">"mEntulimu" estas serio de mallongaj filmoj pri la loĵbana.</div>
 <div lang="fr">« mEntulimu » est une serie de courts métrages sur lojban.</div>
-<div lang="zh-Hant">"mEntulimu"是關於Lojban的短片系列。</div>
-<div lang="zh-Hans">"mEntulimu"是关于Lojban的短片系列。</div>
+<div lang="zh-Hant">"mEntulimu"是關於邏輯語的短片系列。</div>
+<div lang="zh-Hans">"mEntulimu"是关于逻辑语的短片系列。</div>
 <div lang="ja">「mEntulimu」はロジバンについての短編動画シリーズです。</div>
 
 ## <span lang="en">List of videos</span> <span lang="jbo">liste loi skina</span> <span lang="epo">Listo de filmoj</span> <span lang="fr">Liste de films</span> <span lang="zh-Hant">視頻目錄</span> <span lang="zh-Hans">视频目录</span> <span lang="ja">動画のリスト</span>
 
+<div lang="en">
+Videos are not ready yet.
+
+- Commentary on the book CLL
+- Elementary course
+- Intermediate course
+- Proposals about the design of future Lojban language
+- Your works in Lojban
+</div>
+<div lang="jbo">
+lo skina cu pu'o gubni
+
+- i pinka lo cukta no'u cylyly
+- i skina co ctuca lo nintadni
+- i skina co ctuca lo ba'o nintadni
+- i selti'i fi'o te tavla lo se platu be fi lo ba lojbo bangu
+- i se finti do bau la lojban
+</div>
+<div lang="epo">
+Filmoj ankoraŭ ne estas pretaj.
+
+- Komentoj pri la libro CLL
+- Elementa kurso
+- Mezgrada kurso
+- Proponoj pri plano de la loĵbana lingvo
+- Viaj verkoj en la loĵbana
+</div>
+<div lang="fr">
+Les films ne sont pas encore prêts.
+
+- Commentaires du livre CLL
+- Cours élémentaire
+- Cours moyen
+- Propositions sur le plan de la langue lojbanaise
+- Vos œuvres dans le lojban
+</div>
+<div lang="zh-Hant">
+電影還沒準備好.
+
+- CLL解說
+- 初級講座
+- 中級講座
+- 對於言語設計的提議
+- 使用邏輯語的你們的作品
+</div>
+<div lang="zh-Hans">
+电影还没准备好.
+
+- CLL解说
+- 初级讲座
+- 中级讲座
+- 对于言语設计的提议
+- 使用逻辑语的你们的作品
+</div>
+<div lang="ja">
+動画はまだできていません。
+
 - CLLの解説
-- 初心者講座
-- 中級者講座
+- 初級講座
+- 中級講座
 - 言語設計に対する提案
-- ロジバンを使った作品
+- ロジバンを使った皆さんの作品
+</div>
