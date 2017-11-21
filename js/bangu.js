@@ -1,9 +1,9 @@
-    $('[lang="jbo"]').hide();
-    $('[lang="epo"]').hide();
-    $('[lang="fr"]').hide();
-    $('[lang="zh-Hant"]').hide();
-    $('[lang="zh-Hans"]').hide();
-    $('[lang="ja"]').hide();
+$('[lang="jbo"]').hide();
+$('[lang="epo"]').hide();
+$('[lang="fr"]').hide();
+$('[lang="zh-Hant"]').hide();
+$('[lang="zh-Hans"]').hide();
+$('[lang="ja"]').hide();
 
 if (localStorage.lang !== "undefined") {
     $('[lang]').hide();
