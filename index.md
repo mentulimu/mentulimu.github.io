@@ -24,6 +24,7 @@ Videos are not ready yet.
 <li />Intermediate course
 <li />Proposals about the design of future Lojban language
 <li />Your works in Lojban
+<li />About mEntulimu
 </ul>
 </div>
 
@@ -35,6 +36,7 @@ lo skina cu pu'o gubni
 <li />i skina co ctuca lo ba'o nintadni
 <li />i selti'i fi'o te tavla lo se platu be fi lo ba lojbo bangu
 <li />i se finti do bau la lojban
+<li />i velcki la'au mEntulimu li'u
 </ul>
 </div>
 
@@ -46,6 +48,7 @@ Filmoj ankoraŭ ne estas pretaj.
 <li />Mezgrada kurso
 <li />Proponoj pri plano de la loĵbana lingvo
 <li />Viaj verkoj en la loĵbana
+<li />Pri mEntulimu
 </ul>
 </div>
 
@@ -57,6 +60,7 @@ Les films ne sont pas encore prêts.
 <li />Cours moyen
 <li />Propositions sur le plan de la langue lojbanaise
 <li />Vos œuvres dans le lojban
+<li />A propos de mEntulimu
 </ul>
 </div>
 
@@ -68,6 +72,7 @@ Les films ne sont pas encore prêts.
 <li />中級講座
 <li />對於言語設計的提議
 <li />使用邏輯語的你們的作品
+<li />關於mEntulimu
 </ul>
 </div>
 
@@ -79,6 +84,7 @@ Les films ne sont pas encore prêts.
 <li />中级讲座
 <li />对于言语設计的提议
 <li />使用逻辑语的你们的作品
+<li />关于mEntulimu
 </ul>
 </div>
 
@@ -90,5 +96,6 @@ Les films ne sont pas encore prêts.
 <li />中級講座
 <li />言語設計に対する提案
 <li />ロジバンを使った皆さんの作品
+<li />mEntulimuについて
 </ul>
 </div>
