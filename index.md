@@ -19,7 +19,7 @@ date: 2017-10-27T12:44:00Z
 <div lang="en">
 Videos are not ready yet.
 <ul>
-<li />Commentary on the book CLL
+<li />Commentary on <a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">the book CLL (The Complete Lojban Language)</a>
 <li />Elementary course
 <li />Intermediate course
 <li />Proposals about the design of future Lojban language
@@ -31,7 +31,7 @@ Videos are not ready yet.
 <div lang="jbo">
 lo skina cu pu'o gubni
 <ul>
-<li />i pinka lo cukta no'u cylyly
+<li />i pinka <a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">lo cukta no'u cylyly (to la'o zoi The Complete Lojban Language zoi toi)</a>
 <li />i skina co ctuca lo nintadni
 <li />i skina co ctuca lo ba'o nintadni
 <li />i selti'i fi'o te tavla lo se platu be fi lo ba lojbo bangu
@@ -43,10 +43,10 @@ lo skina cu pu'o gubni
 <div lang="epo">
 Filmoj ankoraŭ ne estas pretaj.
 <ul>
-<li />Komentoj pri la libro CLL
+<li />Komentoj pri <a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">la libro CLL (The Complete Lojban Language)</a>
 <li />Elementa kurso
 <li />Mezgrada kurso
-<li />Proponoj pri plano de la loĵbana lingvo
+<li />Proponoj pri plano de la estonta loĵbana lingvo
 <li />Viaj verkoj en la loĵbana
 <li />Pri mEntulimu
 </ul>
@@ -55,10 +55,10 @@ Filmoj ankoraŭ ne estas pretaj.
 <div lang="fr">
 Les films ne sont pas encore prêts.
 <ul>
-<li />Commentaires du livre CLL
+<li />Commentaires du livre CLL (<a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">The Complete Lojban Language</a>, <a href="https://github.com/faslobgri/cll-fr">Le Précis de grammaire lojban</a>)
 <li />Cours élémentaire
 <li />Cours moyen
-<li />Propositions sur le plan de la langue lojbanaise
+<li />Propositions du plan de la langue lojbanaise d'avenir
 <li />Vos œuvres dans le lojban
 <li />A propos de mEntulimu
 </ul>
@@ -67,10 +67,10 @@ Les films ne sont pas encore prêts.
 <div lang="zh-Hant">
 電影還沒準備好.
 <ul>
-<li />CLL解說
+<li /><a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">CLL (The Complete Lojban Language)</a> 解說
 <li />初級講座
 <li />中級講座
-<li />對於言語設計的提議
+<li />對於將來的邏輯語的設計的提議
 <li />使用邏輯語的你們的作品
 <li />關於mEntulimu
 </ul>
@@ -79,10 +79,10 @@ Les films ne sont pas encore prêts.
 <div lang="zh-Hans">
 电影还没准备好.
 <ul>
-<li />CLL解说
+<li /><a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">CLL (The Complete Lojban Language)</a> 解说
 <li />初级讲座
 <li />中级讲座
-<li />对于言语設计的提议
+<li />对于将来的逻辑语的設计的提议
 <li />使用逻辑语的你们的作品
 <li />关于mEntulimu
 </ul>
@@ -91,10 +91,10 @@ Les films ne sont pas encore prêts.
 <div lang="ja">
 動画はまだできていません。
 <ul>
-<li />CLLの解説
+<li />CLL（<a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">The Complete Lojban Language</a>, <a href="http://ponjbogri.github.io/cll-ja/">ロジバン大全</a>）の解説
 <li />初級講座
 <li />中級講座
-<li />言語設計に対する提案
+<li />将来のロジバンの設計に対する提案
 <li />ロジバンを使った皆さんの作品
 <li />mEntulimuについて
 </ul>
