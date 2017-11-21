@@ -18,64 +18,77 @@ date: 2017-10-27T12:44:00Z
 
 <div lang="en">
 Videos are not ready yet.
-
-- Commentary on the book CLL
-- Elementary course
-- Intermediate course
-- Proposals about the design of future Lojban language
-- Your works in Lojban
+<ol>
+<li />Commentary on the book CLL
+<li />Elementary course
+<li />Intermediate course
+<li />Proposals about the design of future Lojban language
+<li />Your works in Lojban
+</ol>
 </div>
+
 <div lang="jbo">
 lo skina cu pu'o gubni
-
-- i pinka lo cukta no'u cylyly
-- i skina co ctuca lo nintadni
-- i skina co ctuca lo ba'o nintadni
-- i selti'i fi'o te tavla lo se platu be fi lo ba lojbo bangu
-- i se finti do bau la lojban
+<ol>
+<li />i pinka lo cukta no'u cylyly
+<li />i skina co ctuca lo nintadni
+<li />i skina co ctuca lo ba'o nintadni
+<li />i selti'i fi'o te tavla lo se platu be fi lo ba lojbo bangu
+<li />i se finti do bau la lojban
+</ol>
 </div>
+
 <div lang="epo">
 Filmoj ankoraŭ ne estas pretaj.
-
-- Komentoj pri la libro CLL
-- Elementa kurso
-- Mezgrada kurso
-- Proponoj pri plano de la loĵbana lingvo
-- Viaj verkoj en la loĵbana
+<ol>
+<li />Komentoj pri la libro CLL
+<li />Elementa kurso
+<li />Mezgrada kurso
+<li />Proponoj pri plano de la loĵbana lingvo
+<li />Viaj verkoj en la loĵbana
+</ol>
 </div>
+
 <div lang="fr">
 Les films ne sont pas encore prêts.
-
-- Commentaires du livre CLL
-- Cours élémentaire
-- Cours moyen
-- Propositions sur le plan de la langue lojbanaise
-- Vos œuvres dans le lojban
+<ol>
+<li />Commentaires du livre CLL
+<li />Cours élémentaire
+<li />Cours moyen
+<li />Propositions sur le plan de la langue lojbanaise
+<li />Vos œuvres dans le lojban
+</ol>
 </div>
+
 <div lang="zh-Hant">
 電影還沒準備好.
-
-- CLL解說
-- 初級講座
-- 中級講座
-- 對於言語設計的提議
-- 使用邏輯語的你們的作品
+<ol>
+<li />CLL解說
+<li />初級講座
+<li />中級講座
+<li />對於言語設計的提議
+<li />使用邏輯語的你們的作品
+</ol>
 </div>
+
 <div lang="zh-Hans">
 电影还没准备好.
-
-- CLL解说
-- 初级讲座
-- 中级讲座
-- 对于言语設计的提议
-- 使用逻辑语的你们的作品
+<ol>
+<li />CLL解说
+<li />初级讲座
+<li />中级讲座
+<li />对于言语設计的提议
+<li />使用逻辑语的你们的作品
+</ol>
 </div>
+
 <div lang="ja">
 動画はまだできていません。
-
-- CLLの解説
-- 初級講座
-- 中級講座
-- 言語設計に対する提案
-- ロジバンを使った皆さんの作品
+<ol>
+<li />CLLの解説
+<li />初級講座
+<li />中級講座
+<li />言語設計に対する提案
+<li />ロジバンを使った皆さんの作品
+</ol>
 </div>
