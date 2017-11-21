@@ -1,4 +1,4 @@
-if (localStorage.lang !== "undefined") {
+if (typeof localStorage.lang !== "undefined") {
     $('[lang]').hide();
     $('[lang=' + localStorage.lang + ']').show();
 } else {
