@@ -4,29 +4,17 @@ title: mEntulimu
 author: guskant
 date: 2017-12-15T12:44:00Z
 ---
-## <span lang="en">What is "mEntulimu"?</span> <!--
---><span lang="jbo">la'au mEntulimu li'u mo</span> <!--
---><span lang="epo">Kio estas "mEntulimu"?</span> <!--
---><span lang="fr">Qu'est « mEntulimu » ?</span> <!--
---><span lang="zh-Hant">"mEntulimu"是什麼?</span> <!--
---><span lang="zh-Hans">"mEntulimu"是什么?</span> <!--
---><span lang="ja">「mEntulimu」とは？</span>
+## <span lang="en">What is "mEntulimu"?</span> <span lang="jbo">la'au mEntulimu li'u mo</span> <span lang="epo">Kio estas "mEntulimu"?</span> <span lang="fr">Qu'est « mEntulimu » ?</span> <span lang="zh-Hant">"mEntulimu"是什麼?</span> <span lang="zh-Hans">"mEntulimu"是什么?</span> <span lang="ja">「mEntulimu」とは？</span>
 
 <div lang="en">"mEntulimu" is a series of short videos about Lojban language.</div>
 <div lang="jbo">i la'au mEntulimu li'u porsi lo temto'u co skina be la lojban</div>
 <div lang="epo">"mEntulimu" estas serio de mallongaj filmoj pri la loĵbana lingvo.</div>
 <div lang="fr">« mEntulimu » est une serie de courts métrages sur la langue lojbanaise.</div>
-<div lang="zh-Hant">"mEntulimu"是關於邏輯語的短片系列。</div>
+<div lang="zh-Hant">"mEntumu"是關於邏輯語的短片系列。</div>
 <div lang="zh-Hans">"mEntulimu"是关于逻辑语的短片系列。</div>
 <div lang="ja">「mEntulimu」はロジバンについての短編動画シリーズです。</div>
 
-## <span lang="en">Recent videos</span> <!--
---><span lang="jbo">ni'o cnino skina</span> <!--
---><span lang="epo">Freŝaj filmoj</span> <!--
---><span lang="fr">Les dernières vidéos</span> <!--
---><span lang="zh-Hant">最新視頻</span> <!--
---><span lang="zh-Hans">最新视频</span> <!--
---><span lang="ja">最新の動画</span>
+## <span lang="en">Recent videos</span> <span lang="jbo">ni'o cnino skina</span> <span lang="epo">Freŝaj filmoj</span> <span lang="fr">Les dernières vidéos</span> <span lang="zh-Hant">最新視頻</span> <span lang="zh-Hans">最新视频</span> <span lang="ja">最新の動画</span>
 
   {% for page in site.skina limit:5 %}
 - i [{{ page.title }}]({{ page.url }}) ({{ page.date | date: "%Y-%m-%d" }}) {% endfor %}
@@ -38,11 +26,7 @@ date: 2017-12-15T12:44:00Z
 --><span lang="zh-Hant">現在有</span> <!--
 --><span lang="zh-Hans">现在有</span> <!--
 --><span lang="ja">現在</span> <!--
--->{% comment %}
-*
-*   Counter: This include counts the your jekyll posts
-*
-{% endcomment %}{% assign counter = 1 %}{% for item in site.skina.posts %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }}<!--
+-->{% assign counter = 1 %}{% for item in site.skina.posts %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }}<!--
 --><span lang="en">video in 6 languages.</span> <!--
 --><span lang="jbo">da skina bau 6 de</span> <!--
 --><span lang="epo">filmo en 6 lingvoj.</span> <!--
@@ -51,13 +35,7 @@ date: 2017-12-15T12:44:00Z
 --><span lang="zh-Hans">个视频使用6个语言讲的.</span> <!--
 --><span lang="ja">件、6言語の動画があります。</span>
 
-## <span lang="en">List of videos</span> <!--
---><span lang="jbo">ni'o liste loi skina</span> <!--
---><span lang="epo">Listo de filmoj</span> <!--
---><span lang="fr">Liste de vidéos</span> <!--
---><span lang="zh-Hant">視頻目錄</span> <!--
---><span lang="zh-Hans">视频目录</span> <!--
---><span lang="ja">動画のリスト</span>
+## <span lang="en">List of videos</span> <span lang="jbo">ni'o liste loi skina</span> <span lang="epo">Listo de filmoj</span> <span lang="fr">Liste de vidéos</span> <span lang="zh-Hant">視頻目錄</span> <span lang="zh-Hans">视频目录</span> <span lang="ja">動画のリスト</span>
 
 - <span lang="en">Commentary on <a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">the book CLL (The Complete Lojban Language)</a></span> <!--
 --><span lang="jbo">i pinka <a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">lo cukta no'u cylyly (to la'o zoi The Complete Lojban Language zoi toi)</a></span> <!--
