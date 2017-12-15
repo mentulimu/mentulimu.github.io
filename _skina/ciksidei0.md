@@ -12,7 +12,6 @@ date: 2017-12-15T08:32:00Z
 </div>
 <div lang="epo">
 <iframe src="https://player.vimeo.com/video/247410967" width="320" height="569" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/247410967">mEntulimu 0 in Esperanto</a> from <a href="https://vimeo.com/guskant">gusni kantu</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 </div>
 <div lang="fr">
 <iframe src="https://player.vimeo.com/video/247411055" width="320" height="569" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
