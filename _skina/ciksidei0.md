@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: skina
 title: e'o benji su'o jufra ko
 author: guskant
 date: 2017-12-15T08:32:00Z
