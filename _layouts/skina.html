@@ -14,10 +14,9 @@
   </head>
 
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
 	<select id="lang-switch">
 	  <option value="en">English</option>
 	  <option value="jbo">Lojban</option>
@@ -27,12 +26,6 @@
 	  <option value="zh-Hans">中文简化字</option>
 	  <option value="ja">日本語</option>
 	</select>
-        </header>
-    </div>
-
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
         {{ content }}
       </section>
     </div>
