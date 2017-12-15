@@ -30,7 +30,7 @@ date: 2017-12-15T12:44:00Z
 --><span lang="en">video in 6 languages.</span> <!--
 --><span lang="jbo">da skina bau 6 de</span> <!--
 --><span lang="epo">filmo en 6 lingvoj.</span> <!--
---><span lang="fr">vidéos dans 6 langues.</span> <!--
+--><span lang="fr">vidéo dans 6 langues.</span> <!--
 --><span lang="zh-Hant">個視頻使用6個語言講的.</span> <!--
 --><span lang="zh-Hans">个视频使用6个语言讲的.</span> <!--
 --><span lang="ja">件、6言語の動画があります。</span>
