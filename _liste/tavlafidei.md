@@ -6,4 +6,4 @@ date: 2017-10-27T12:44:00Z
 ---
 ## velcki la'au mEntulimu li'u
 
-- [e'o benji su'o jufra ko](ciksidei0.html)
+- [e'o benji su'o jufra mi ko](ciksidei0.html)

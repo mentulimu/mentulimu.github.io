@@ -37,13 +37,13 @@ date: 2017-12-15T12:44:00Z
 
 ## <span lang="en">List of videos</span> <span lang="jbo">ni'o liste loi skina</span> <span lang="epo">Listo de filmoj</span> <span lang="fr">Liste de vidéos</span> <span lang="zh-Hant">視頻目錄</span> <span lang="zh-Hans">视频目录</span> <span lang="ja">動画のリスト</span>
 
-- <span lang="en">Commentary on <a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">the book CLL (The Complete Lojban Language)</a></span> <!--
---><span lang="jbo">i pinka <a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">lo cukta no'u cylyly (to la'o zoi The Complete Lojban Language zoi toi)</a></span> <!--
---><span lang="epo">Komentoj pri <a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">la libro CLL (The Complete Lojban Language)</a></span> <!--
---><span lang="fr">Commentaires du livre CLL (<a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">The Complete Lojban Language</a>, <a href="https://github.com/faslobgri/cll-fr">Le Précis de grammaire lojban</a>)</span> <!--
---><span lang="zh-Hant"><a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">CLL (The Complete Lojban Language)</a> 註釋</span> <!--
---><span lang="zh-Hans"><a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">CLL (The Complete Lojban Language)</a> 注释</span> <!--
---><span lang="ja">CLL（<a href="https://mw.lojban.org/papri/The_Complete_Lojban_Language">The Complete Lojban Language</a>, <a href="http://ponjbogri.github.io/cll-ja/">ロジバン大全</a>）の注釈</span>
+- <span lang="en">Commentary on the book CLL (The Complete Lojban Language)</span> <!--
+--><span lang="jbo">i pinka lo cukta no'u cylyly (to la'o zoi The Complete Lojban Language zoi toi)</span> <!--
+--><span lang="epo">Komentoj pri la libro CLL (The Complete Lojban Language)</span> <!--
+--><span lang="fr">Commentaires du livre CLL (The Complete Lojban Language, Le Précis de grammaire lojban)</span> <!--
+--><span lang="zh-Hant">CLL (The Complete Lojban Language) 註釋</span> <!--
+--><span lang="zh-Hans">CLL (The Complete Lojban Language) 注释</span> <!--
+--><span lang="ja">CLL（The Complete Lojban Language, ロジバン大全）の注釈</span>
 - <span lang="en">Elementary course</span> <!--
 --><span lang="jbo">i skina co ctuca lo nintadni</span> <!--
 --><span lang="epo">Elementa kurso</span> <!--

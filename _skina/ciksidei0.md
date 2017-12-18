@@ -1,6 +1,6 @@
 ---
 layout: skina
-title: e'o benji su'o jufra ko
+title: e'o benji su'o jufra mi ko
 author: guskant
 date: 2017-12-15T08:32:00Z
 ---
@@ -26,7 +26,7 @@ date: 2017-12-15T08:32:00Z
 <iframe src="https://player.vimeo.com/video/247411197" width="320" height="569" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 <span lang="en">Contribute your text!</span> <!--
---><span lang="jbo">e'o benji su'o jufra ko</span> <!--
+--><span lang="jbo">e'o benji su'o jufra mi ko</span> <!--
 --><span lang="epo">Kontribuu per via teksto!</span> <!--
 --><span lang="fr">Collaborez à la vidéo!</span> <!--
 --><span lang="zh-Hant">請大家來投稿吧!</span> <!--
