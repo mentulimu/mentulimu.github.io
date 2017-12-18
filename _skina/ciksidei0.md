@@ -2,7 +2,7 @@
 layout: skina
 title: e'o benji su'o jufra mi ko
 author: guskant
-date: 2017-12-15T08:32:00Z
+date: 2017-12-18T23:47:00Z
 ---
 <div lang="en">
 <iframe src="https://player.vimeo.com/video/247410813" width="320" height="569" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
