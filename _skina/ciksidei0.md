@@ -34,7 +34,7 @@ date: 2017-12-18T23:47:00Z
 --><span lang="ja">ご投稿ください。宛先は、以下のどれか1つをお使いください。</span>
 - [Facebook: bripre jikca](https://www.facebook.com/profile.php?id=100004904537027&ref=br_rs)
 - [Twitter: @bripre](https://twitter.com/bripre)
-- [Email: bripre.jikca@gmail.com](mailto:gusni.kantu@gmail.com?Subject=mEntulimu)
+- [Email: bripre.jikca@gmail.com](mailto:bripre.jikca@gmail.com?Subject=mEntulimu)
 
 <span lang="en"></span> <!--
 --><span lang="jbo">zoi</span> <!--
