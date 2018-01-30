@@ -2,7 +2,7 @@
 layout: default
 title: mEntulimu
 author: guskant
-date: 2017-12-15T12:44:00Z
+date: 2018-01-30T22:44:00Z
 ---
 ## <span lang="en">What is "mEntulimu"?</span> <span lang="jbo">la'au mEntulimu li'u mo</span> <span lang="epo">Kio estas "mEntulimu"?</span> <span lang="fr">Qu'est « mEntulimu » ?</span> <span lang="zh-Hant">"mEntulimu"是什麼?</span> <span lang="zh-Hans">"mEntulimu"是什么?</span> <span lang="ja">「mEntulimu」とは？</span>
 
@@ -35,6 +35,23 @@ date: 2017-12-15T12:44:00Z
 --><span lang="zh-Hans">个视频使用6个语言讲的.</span> <!--
 --><span lang="ja">件、6言語の動画があります。</span>
 
+## <span lang="en">To be published soon</span> <span lang="jbo">ni'o ba za gubni</span> <span lang="epo">Baldaŭ publikigotaj</span> <span lang="fr">Rendu public prochainement</span> <span lang="zh-Hant">即將推出</span> <span lang="zh-Hans">即将推出</span> <span lang="ja">近日公開</span>
+
+- <span lang="en">What does "logical language" mean?</span> <!--
+--><span lang="jbo">ma smuni zoi zoi logical language zoi</span> <!--
+--><span lang="epo">Kion signifas "logical language"?</span> <!--
+--><span lang="fr">Que signifie « logical language » ?</span> <!--
+--><span lang="zh-Hant">"logical language"是什麼意思?</span> <!--
+--><span lang="zh-Hans">"logical language"是什么意思?</span> <!--
+--><span lang="ja">"logical language"とはどういう意味か</span>
+- <span lang="en">Comment on "i ko ca'o kucli"</span> <!--
+--><span lang="jbo">pinka la'au i ko ca'o kucli li'u</span> <!--
+--><span lang="epo">Komento pri "i ko ca'o kucli"</span> <!--
+--><span lang="fr">Commentaire sur « i ko ca'o kucli »</span> <!--
+--><span lang="zh-Hant">對"i ko ca'o kucli"的評論</span> <!--
+--><span lang="zh-Hans">对"i ko ca'o kucli"的评论</span> <!--
+--><span lang="ja">"i ko ca'o kucli"についてのコメント</span>
+
 ## <span lang="en">List of videos</span> <span lang="jbo">ni'o liste loi skina</span> <span lang="epo">Listo de filmoj</span> <span lang="fr">Liste de vidéos</span> <span lang="zh-Hant">視頻目錄</span> <span lang="zh-Hans">视频目录</span> <span lang="ja">動画のリスト</span>
 
 - <span lang="en">Commentary on the book CLL (The Complete Lojban Language)</span> <!--
@@ -65,13 +82,13 @@ date: 2017-12-15T12:44:00Z
 --><span lang="zh-Hant">對於將來的邏輯語的設計的提議</span> <!--
 --><span lang="zh-Hans">对于将来的逻辑语的設计的提议</span> <!--
 --><span lang="ja">将来のロジバンの設計に対する提案</span>
-- <span lang="en">Your works in Lojban</span> <!--
---><span lang="jbo">i se finti do bau la lojban</span> <!--
---><span lang="epo">Viaj verkoj en la loĵbana</span> <!--
---><span lang="fr">Vos œuvres dans le lojban</span> <!--
---><span lang="zh-Hant">使用邏輯語的你們的作品</span> <!--
---><span lang="zh-Hans">使用逻辑语的你们的作品</span> <!--
---><span lang="ja">ロジバンを使った皆さんの作品</span>
+- <span lang="en">[Your works in Lojban](larcu.html)</span> <!--
+--><span lang="jbo">[i se finti do bau la lojban](larcu.html)</span> <!--
+--><span lang="epo">[Viaj verkoj en la loĵbana](larcu.html)</span> <!--
+--><span lang="fr">[Vos œuvres dans le lojban](larcu.html)</span> <!--
+--><span lang="zh-Hant">[使用邏輯語的你們的作品](larcu.html)</span> <!--
+--><span lang="zh-Hans">[使用逻辑语的你们的作品](larcu.html)</span> <!--
+--><span lang="ja">[ロジバンを使った皆さんの作品](larcu.html)</span>
 - <span lang="en">[About mEntulimu](tavlafidei.html)</span> <!--
 --><span lang="jbo">[i velcki la'au mEntulimu li'u](tavlafidei.html)</span> <!--
 --><span lang="epo">[Pri mEntulimu](tavlafidei.html)</span> <!--
