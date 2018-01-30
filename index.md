@@ -25,8 +25,8 @@ date: 2018-01-30T22:44:00Z
 --><span lang="fr">Il y a</span> <!--
 --><span lang="zh-Hant">現在有</span> <!--
 --><span lang="zh-Hans">现在有</span> <!--
---><span lang="ja">現在</span> <!--
--->{% assign counter = 1 %}{% for item in site.skina.pages %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }}<!--
+--><span lang="ja">現在</span> 2<!--
+{% assign counter = 1 %}{% for item in site.skina.pages %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }}
 --><span lang="en"> video in 6 languages.</span> <!--
 --><span lang="jbo"> da skina bau 6 de</span> <!--
 --><span lang="epo"> filmo en 6 lingvoj.</span> <!--
