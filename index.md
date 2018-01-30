@@ -26,11 +26,11 @@ date: 2018-01-30T22:44:00Z
 --><span lang="zh-Hant">現在有</span> <!--
 --><span lang="zh-Hans">现在有</span> <!--
 --><span lang="ja">現在</span> <!--
--->{% assign counter = 1 %}{% for item in site.skina.posts %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }}<!--
---><span lang="en">video in 6 languages.</span> <!--
---><span lang="jbo">da skina bau 6 de</span> <!--
---><span lang="epo">filmo en 6 lingvoj.</span> <!--
---><span lang="fr">vidéo dans 6 langues.</span> <!--
+-->{% assign counter = 1 %}{% for item in site.skina.pages %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }}<!--
+--><span lang="en"> video in 6 languages.</span> <!--
+--><span lang="jbo"> da skina bau 6 de</span> <!--
+--><span lang="epo"> filmo en 6 lingvoj.</span> <!--
+--><span lang="fr"> vidéo dans 6 langues.</span> <!--
 --><span lang="zh-Hant">個視頻使用6個語言講的.</span> <!--
 --><span lang="zh-Hans">个视频使用6个语言讲的.</span> <!--
 --><span lang="ja">件、6言語の動画があります。</span>
