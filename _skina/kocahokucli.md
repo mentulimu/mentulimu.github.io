@@ -34,4 +34,5 @@ date: 2018-01-30T22:20:00Z
 --><span lang="zh-Hans">''i ko ca'o kucli''是Sean Terry作曲唱歌, 由Guskant伴奏, 采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可.</span> <!--
 --><span lang="ja">「i ko ca'o kucli」はSean Terry制作、Guskant伴奏、<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">クリエイティブ・コモンズ 表示 - 継承 4.0 国際 ライセンス</a>の下に提供されています。</span>
 - [ge cu se finti gi se sangarapa gi se benji gi'i](https://mw.lojban.org/papri/zantufa_jonma%27o_smuni)
+- [rilsletei](http://jbovlaste.lojban.org/dict/rilsletei)
 
