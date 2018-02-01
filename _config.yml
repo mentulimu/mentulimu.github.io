@@ -2,7 +2,7 @@ theme: jekyll-theme-slate
 title: mEntulimu
 author: guskant
 author_url: http://photon.freeshell.org/
-contact: http://photon.freeshell.org/mail.html
+contact: mailto:gusni.kantu@gmail.com?Subject=mEntulimu
 collections:
   jbo:
     output: true

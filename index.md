@@ -38,14 +38,14 @@ date: 2018-01-30T22:44:00Z
 ## <span lang="en">To be published soon</span> <span lang="jbo">ni'o ba za gubni</span> <span lang="epo">Baldaŭ publikigotaj</span> <span lang="fr">Rendu public prochainement</span> <span lang="zh-Hant">即將推出</span> <span lang="zh-Hans">即将推出</span> <span lang="ja">近日公開</span>
 
 - <span lang="en">What does "logical language" mean?</span> <!--
---><span lang="jbo">ma smuni zoi zoi logical language zoi</span> <!--
+--><span lang="jbo">i ma smuni zoi zoi logical language zoi</span> <!--
 --><span lang="epo">Kion signifas "logical language"?</span> <!--
 --><span lang="fr">Que signifie « logical language » ?</span> <!--
 --><span lang="zh-Hant">"logical language"是什麼意思?</span> <!--
 --><span lang="zh-Hans">"logical language"是什么意思?</span> <!--
 --><span lang="ja">"logical language"とはどういう意味か</span>
 - <span lang="en">Comment on "i ko ca'o kucli"</span> <!--
---><span lang="jbo">pinka la'au i ko ca'o kucli li'u</span> <!--
+--><span lang="jbo">i pinka la'au i ko ca'o kucli li'u</span> <!--
 --><span lang="epo">Komento pri "i ko ca'o kucli"</span> <!--
 --><span lang="fr">Commentaire sur « i ko ca'o kucli »</span> <!--
 --><span lang="zh-Hant">對"i ko ca'o kucli"的評論</span> <!--
