@@ -26,15 +26,13 @@ Que signifie « logical language » ?
 "logical language"とはどういう意味か
 </div>
 
-<div lang="en">Sound only in French only for now; Video and English version will come soon.</div>
-<div lang="jbo">i ca ku sance po'o je banfuru'a po'o i ti ba zi te bangu fi lo banjubu'o</div>
-<div lang="epo">Nur sono nur en la franca; baldaŭ aperos la esperanta versio</div>
-<div lang="fr"></div>
-<div lang="zh-Hant">目前僅提供法語聲音; 視頻和中文版本即將推出.</div>
-<div lang="zh-Hans">目前仅提供法语声音; 视频和中文版本即将推出.</div>
-<div lang="ja">さしあたりフランス語の音声のみです。動画と日本語版は近日出ます。</div>
-
-- Que signifie Logical Language - cours de lojban en français
+<div lang="en">"Que signifie Logical Language" is shared there, sound only in French only for now; Video and English version will come soon.</div>
+<div lang="jbo">i la'o zoi Que signifie Logical Language zoi se tirna la'e de'e i ca ku sance po'o je banfuru'a po'o i ti ba zi te bangu fi lo banjubu'o</div>
+<div lang="epo">"Que signifie Logical Language" estas aŭdebla tie, nur sono nur en la franca; baldaŭ aperos la esperanta versio</div>
+<div lang="fr">"Que signifie Logical Language" est partagé là bas:</div>
+<div lang="zh-Hant">在这里共享 "Que signifie Logical Language", 目前僅提供法語聲音; 視頻和中文版本即將推出.</div>
+<div lang="zh-Hans">在這里共享 "Que signifie Logical Language", 目前仅提供法语声音; 视频和中文版本即将推出.</div>
+<div lang="ja"> "Que signifie Logical Language" は以下のところで聞けます。さしあたりフランス語の音声のみです。動画と日本語版は近日出ます。</div>
 
 [![Spotify](media/spotify.png){: .linji}Spotify](https://open.spotify.com/album/1GbrscfnZaWLPonjykzlsU),
 [![Apple Music](media/applemusic.png){: .linji}Apple Music](https://music.apple.com/us/album/que-signifie-logical-language-cours-lojban-en-fran%C3%A7ais/1515026962?uo=4&app=music&at=1001lry3&ct=dashboard),
