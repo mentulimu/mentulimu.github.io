@@ -27,7 +27,7 @@ Que signifie « logical language » ?
 </div>
 
 <div lang="en">"Que signifie Logical Language" is shared there, sound only in French only for now; Video and English version will come soon.</div>
-<div lang="jbo">i la'o zoi Que signifie Logical Language zoi se tirna la'e de'e i ca ku sance po'o je banfuru'a po'o i ti ba zi te bangu fi lo banjubu'o</div>
+<div lang="jbo">i la'o zoi Que signifie Logical Language zoi se tirna bu'u la'e de'e i ca ku sance po'o je cu banfuru'a po'o i ti ba zi te bangu fi lo banjubu'o i zoi zoi</div>
 <div lang="epo">"Que signifie Logical Language" estas aŭdebla tie, nur sono nur en la franca; baldaŭ aperos la esperanta versio</div>
 <div lang="fr">"Que signifie Logical Language" est partagé là bas:</div>
 <div lang="zh-Hant">在这里共享 "Que signifie Logical Language", 目前僅提供法語聲音; 視頻和中文版本即將推出.</div>
@@ -52,5 +52,13 @@ Que signifie « logical language » ?
 ![KKBox](media/kkbox.png){: .linji}KKBox,
 ![NetEase (beta)](media/netease.png){: .linji}NetEase (beta),
 ![MediaNet](media/beats.png){: .linji}MediaNet
+
+<div lang="en"></div>
+<div lang="jbo">zoi</div>
+<div lang="epo"></div>
+<div lang="fr"></div>
+<div lang="zh-Hant"></div>
+<div lang="zh-Hans"></div>
+<div lang="ja"></div>
 
 
