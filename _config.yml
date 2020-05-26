@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+markdown: kramdown
 title: mEntulimu
 author: guskant
 author_url: http://photon.freeshell.org/
