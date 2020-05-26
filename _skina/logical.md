@@ -45,7 +45,7 @@ Que signifie « logical language » ?
 ![Deezer](media/deezer.png){: .linji}Deezer,
 ![Tidal](media/tidal.png){: .linji}Tidal,
 ![Napster](media/napster.png){: .linji}Napster,
-[![iHeartRadio](media/iheart.png){: .linji}iHeartRadio](https://www.iheart.com/artist/id-33297983/albums/id-102889963),
+![iHeartRadio](media/iheart.png){: .linji}iHeartRadio,
 ![ClaroMusica](media/imusica.png){: .linji}ClaroMusica,
 ![Saavn](media/saavn.png){: .linji}Saavn,
 ![Anghami](media/anghami.png){: .linji}Anghami,
