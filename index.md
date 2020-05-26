@@ -37,13 +37,6 @@ date: 2018-01-30T22:44:00Z
  
 ## <span lang="en">To be published soon</span> <span lang="jbo">ni'o ba za gubni</span> <span lang="epo">Baldaŭ publikigotaj</span> <span lang="fr">Rendu public prochainement</span> <span lang="zh-Hant">即將推出</span> <span lang="zh-Hans">即将推出</span> <span lang="ja">近日公開</span>
 
-- <span lang="en">What does "logical language" mean?</span> <!--
---><span lang="jbo">i ma smuni zoi zoi logical language zoi</span> <!--
---><span lang="epo">Kion signifas "logical language"?</span> <!--
---><span lang="fr">Que signifie « logical language » ?</span> <!--
---><span lang="zh-Hant">"logical language"是什麼意思?</span> <!--
---><span lang="zh-Hans">"logical language"是什么意思?</span> <!--
---><span lang="ja">"logical language"とはどういう意味か</span>
 - <span lang="en">Comment on "i ko ca'o kucli"</span> <!--
 --><span lang="jbo">i pinka la'au i ko ca'o kucli li'u</span> <!--
 --><span lang="epo">Komento pri "i ko ca'o kucli"</span> <!--
@@ -54,20 +47,20 @@ date: 2018-01-30T22:44:00Z
 
 ## <span lang="en">List of videos</span> <span lang="jbo">ni'o liste loi skina</span> <span lang="epo">Listo de filmoj</span> <span lang="fr">Liste de vidéos</span> <span lang="zh-Hant">視頻目錄</span> <span lang="zh-Hans">视频目录</span> <span lang="ja">動画のリスト</span>
 
-- <span lang="en">Commentary on the book CLL (The Complete Lojban Language)</span> <!--
---><span lang="jbo">i pinka lo cukta no'u cylyly (to la'o zoi The Complete Lojban Language zoi toi)</span> <!--
---><span lang="epo">Komentoj pri la libro CLL (The Complete Lojban Language)</span> <!--
---><span lang="fr">Commentaires du livre CLL (The Complete Lojban Language, Le Précis de grammaire lojban)</span> <!--
---><span lang="zh-Hant">CLL (The Complete Lojban Language) 註釋</span> <!--
---><span lang="zh-Hans">CLL (The Complete Lojban Language) 注释</span> <!--
---><span lang="ja">CLL（The Complete Lojban Language, ロジバン大全）の注釈</span>
-- <span lang="en">Elementary course</span> <!--
---><span lang="jbo">i skina co ctuca lo nintadni</span> <!--
---><span lang="epo">Elementa kurso</span> <!--
---><span lang="fr">Cours élémentaire</span> <!--
---><span lang="zh-Hant">初級講座</span> <!--
---><span lang="zh-Hans">初级讲座</span> <!--
---><span lang="ja">初級講座</span>
+- <span lang="en">[Commentary on the book CLL (The Complete Lojban Language)](cll.html)</span> <!--
+--><span lang="jbo">[i pinka lo cukta no'u cylyly (to la'o zoi The Complete Lojban Language zoi toi)](cll.html)</span> <!--
+--><span lang="epo">[Komentoj pri la libro CLL (The Complete Lojban Language)](cll.html)</span> <!--
+--><span lang="fr">[Commentaires du livre CLL (The Complete Lojban Language, Le Précis de grammaire lojban)](cll.html)</span> <!--
+--><span lang="zh-Hant">[CLL (The Complete Lojban Language) 註釋](cll.html)</span> <!--
+--><span lang="zh-Hans">[CLL (The Complete Lojban Language) 注释</span> <!--
+--><span lang="ja">[CLL（The Complete Lojban Language, ロジバン大全）の注釈](cll.html)</span>
+- <span lang="en">[Elementary course](nintadni.html)</span> <!--
+--><span lang="jbo">[i skina co ctuca lo nintadni](nintadni.html)</span> <!--
+--><span lang="epo">[Elementa kurso](nintadni.html)</span> <!--
+--><span lang="fr">[Cours élémentaire](nintadni.html)</span> <!--
+--><span lang="zh-Hant">[初級講座](nintadni.html)</span> <!--
+--><span lang="zh-Hans">[初级讲座](nintadni.html)</span> <!--
+--><span lang="ja">[初級講座](nintadni.html)</span>
 - <span lang="en">Intermediate course</span> <!--
 --><span lang="jbo">i skina co ctuca lo ba'o nintadni</span> <!--
 --><span lang="epo">Mezgrada kurso</span> <!--
