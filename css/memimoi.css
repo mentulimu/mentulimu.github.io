@@ -24,3 +24,9 @@ input[type="text"] {
 }
 li a {line-height:1.8;}@media(min-width:60em){li a{line-height:1.2;}}
 
+      .linji {
+        height: 1.2em;
+	width: auto;
+	vertical-align: text-bottom;
+      }
+
