@@ -26,7 +26,6 @@ Que signifie « logical language » ?
 "logical language"とはどういう意味か
 </div>
 
-<div>
 [![alt text](media/spotify.png "Spotify"){: .linji} Spotify](https://open.spotify.com/album/1GbrscfnZaWLPonjykzlsU),
 [![alt text](media/applemusic.png "Apple Music"){: .linji} Apple Music](https://music.apple.com/us/album/que-signifie-logical-language-cours-lojban-en-fran%C3%A7ais/1515026962?uo=4&app=music&at=1001lry3&ct=dashboard),
 [![alt text](media/itunes.png "iTunes"){: .linji} iTunes](https://music.apple.com/us/album/que-signifie-logical-language-cours-lojban-en-fran%C3%A7ais/1515026962?uo=4&app=itunes&at=1001lry3&ct=dashboard),
@@ -45,13 +44,12 @@ Que signifie « logical language » ?
 ![alt text](media/kkbox.png "KKBox"){: .linji},
 ![alt text](media/netease.png "NetEase (beta)"){: .linji},
 ![alt text](media/beats.png "MediaNet"){: .linji}
-</div>
 
-<div lang="en">Sound only in French only for now; Video and English version will come soon.</div> <!--
---><div lang="jbo">i ca ku sance po'o je banfuru'a po'o i ti ba zi te bangu fi lo banjubu'o</div> <!--
---><div lang="epo">Nur sono nur en la franca; baldaŭ aperos la esperanta versio</div> <!--
---><div lang="fr"></div> <!--
---><div lang="zh-Hant">目前僅提供法語聲音; 視頻和中文版本即將推出.</div> <!--
---><div lang="zh-Hans">目前仅提供法语声音; 视频和中文版本即将推出.</div> <!--
---><div lang="ja">さしあたりフランス語の音声のみです。動画と日本語版は近日出ます。</div>
+<div lang="en">Sound only in French only for now; Video and English version will come soon.</div>
+<div lang="jbo">i ca ku sance po'o je banfuru'a po'o i ti ba zi te bangu fi lo banjubu'o</div>
+<div lang="epo">Nur sono nur en la franca; baldaŭ aperos la esperanta versio</div>
+<div lang="fr"></div>
+<div lang="zh-Hant">目前僅提供法語聲音; 視頻和中文版本即將推出.</div>
+<div lang="zh-Hans">目前仅提供法语声音; 视频和中文版本即将推出.</div>
+<div lang="ja">さしあたりフランス語の音声のみです。動画と日本語版は近日出ます。</div>
 
