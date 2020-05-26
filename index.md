@@ -52,7 +52,7 @@ date: 2018-01-30T22:44:00Z
 --><span lang="epo">[Komentoj pri la libro CLL (The Complete Lojban Language)](cll.html)</span> <!--
 --><span lang="fr">[Commentaires du livre CLL (The Complete Lojban Language, Le Précis de grammaire lojban)](cll.html)</span> <!--
 --><span lang="zh-Hant">[CLL (The Complete Lojban Language) 註釋](cll.html)</span> <!--
---><span lang="zh-Hans">[CLL (The Complete Lojban Language) 注释</span> <!--
+--><span lang="zh-Hans">[CLL (The Complete Lojban Language) 注释(cll.html)</span> <!--
 --><span lang="ja">[CLL（The Complete Lojban Language, ロジバン大全）の注釈](cll.html)</span>
 - <span lang="en">[Elementary course](nintadni.html)</span> <!--
 --><span lang="jbo">[i skina co ctuca lo nintadni](nintadni.html)</span> <!--
